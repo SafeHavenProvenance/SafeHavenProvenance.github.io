@@ -4,7 +4,7 @@ title: Safe Haven Data Provenance reporting
 # ​
 
 ## About
-Prov-o extention 
+Safe Haven Data Provenance is [PROV-O](https://www.w3.org/TR/prov-o/) extention. It is a provenance ontology model for the high-security NHS Data Safe Haven environment and open-source resources for tracking and safely reporting provenance data for research therein.
 
 
 
@@ -15,4 +15,5 @@ Prov-o extention
 
 ## Acknowledgments
 
+Thank you to the Wellcome trust for funding the project "Open, reproducible analysis and reporting of data provenance for high-security health and administrative data"  within their "open research fund" scheme.  
 A very big thank you to the Grampian Data Safe Haven and its incredably staff, especially to Katie Wilde, Dr. Joanne Lumsden, Vicky Munro, Artue Wozniak, Adrian Martin.
